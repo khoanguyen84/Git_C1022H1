@@ -2,3 +2,7 @@
     box-sizing: border-box;
     font-family: 'Courier New', Courier, monospace;
 }
+.test{
+    border: 1px;
+    margin: 5 5 5 5;
+}
