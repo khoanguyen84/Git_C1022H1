@@ -22,3 +22,7 @@
     border-radius: 5px;
     background-color: gray;
 }
+
+.btn-success{
+    background-color: green;
+}
